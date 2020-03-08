@@ -1,0 +1,28 @@
+<view>
+<image src="{{themeA.entrance_img}}" class="topname-img"></image>
+<!--  indicator-dots(是否显示面板指示点)   autoplay(是否自动切换)   circular(衔接循环滑动) indicator-active-color(指示点颜色)-->
+<swiper
+        class="swiper-container"
+        indicator-dots="{{true}}"
+        autoplay="{{true}}"
+        circular="{{true}}"
+        indicator-active-color="#157658"
+>
+   <block wx:for="{{bannerB.items}}" wx:key="id">
+      <swiper-item>
+        <image src="{{item.img}}" class="swiper-image"></image>
+     </swiper-item>
+   </block>
+</swiper>
+ <s-category-grid grid="{{gridC}}"></s-category-grid>
+<image src="{{activityD.entrance_img}}" class="activity"></image>
+<s-spu-scroll theme="{{themeE}}"></s-spu-scroll>
+<image src="{{themeF.entrance_img}}"  class="themef-img" ></image>
+<s-host-list banner="{{bannerG}}"></s-host-list>
+<image src="{{themeH.entrance_img}}" class="themeh-img"></image>
+<view class="waterflow-container">
+<image src="../../img/home/title@interest.png" class="sku-privew-title"></image>
+<l-water-flow generic:l-water-flow-item="s-sku-preview" ></l-water-flow>
+</view>
+</view>
+

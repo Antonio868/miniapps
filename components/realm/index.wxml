@@ -1,0 +1,6 @@
+<view>
+<block wx:for="{{fances}}" wx:key="index">
+<s-fance fance="{{item}}" bind:cell-tap="onCellTap" x="{{index}}"></s-fance>
+
+</block>
+</view>

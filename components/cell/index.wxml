@@ -1,0 +1,23 @@
+<view class="container {{s.statusStyle(cell.status).outer}}"  bind:tap="cellTap">
+  <view class="inner-container {{s.statusStyle(cell.status).inner}}">
+<text>{{cell.name}}</text>
+  </view>
+</view>
+<wxs module="s">
+function statusStyle(status) {
+  if (status === 'selected'){
+  return{
+   outer:'s-outer',
+   inner: 's-inner'
+  }
+  }
+  if (status === 'forbidden'){
+  return {
+    outer: 'forbidden',
+    inner: ''
+  }
+
+  }
+}
+module.exports.statusStyle=statusStyle
+</wxs>

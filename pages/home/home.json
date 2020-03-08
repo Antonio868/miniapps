@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "s-category-grid": "/components/category-grid/index",
+    "s-spu-scroll": "/components/spu-scroll/index",
+    "s-host-list": "/components/host-list/index",
+    "s-sku-preview": "/components/sku-preview/index"
+  }
+}

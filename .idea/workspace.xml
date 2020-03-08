@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa182a9c-8526-4219-bd07-6f5c4a31ad38" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Wechat mini program page js file(Page API)" />
+        <option value="Wechat mini program page json file(Page API)" />
+        <option value="Wechat mini program component js file" />
+        <option value="Wechat mini program component json file" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="1YbeFmchRajpNIXF6hzdh6jNyTd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/utils" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Apps\ mark2\components" />
+      <recent name="E:\Apps\ mark2\wxs" />
+      <recent name="E:\Apps\ mark2\img\home" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Apps\ mark2\utils" />
+      <recent name="E:\Apps\ mark2\modules" />
+      <recent name="E:\Apps\ mark2\components" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa182a9c-8526-4219-bd07-6f5c4a31ad38" name="Default Changelist" comment="" />
+      <created>1583215620034</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583215620034</updated>
+      <workItem from="1583215621417" duration="12989000" />
+      <workItem from="1583250135436" duration="16238000" />
+      <workItem from="1583285711846" duration="427000" />
+      <workItem from="1583286205006" duration="45000" />
+      <workItem from="1583286257797" duration="38759000" />
+      <workItem from="1583380887176" duration="23954000" />
+      <workItem from="1583467737389" duration="1744000" />
+      <workItem from="1583481173222" duration="18983000" />
+      <workItem from="1583591555954" duration="11113000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.wxss" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="143" key="#Inspections" timestamp="1583330055648">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="143" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1583330055648" />
+    <state x="826" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583419986477">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="826" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1583419986477" />
+    <state x="843" y="282" key="FileChooserDialogImpl" timestamp="1583481639059">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="843" y="282" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583481639059" />
+    <state x="492" y="58" width="996" height="766" key="SettingsEditor" timestamp="1583491627932">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="492" y="58" width="996" height="766" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583491627932" />
+    <state x="434" y="0" width="782" height="824" key="find.popup" timestamp="1583605337501">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="434" y="0" width="782" height="824" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1583605337501" />
+    <state x="646" y="335" key="run.anything.popup" timestamp="1583265902412">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="646" y="335" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1583265902412" />
+  </component>
+</project>

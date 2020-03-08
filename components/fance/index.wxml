@@ -1,0 +1,11 @@
+<view >
+<view class="title">{{fance.title}}</view>
+<view class="cells-container">
+<block wx:for="{{fance.cells}}" wx:key="index">
+<s-cell cell="{{item}}" class="cell" x="{{x}}" y="{{index}}"></s-cell>
+</block>
+</view>
+<view class="hr"></view>
+</view>
+
+

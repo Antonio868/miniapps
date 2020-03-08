@@ -1,0 +1,48 @@
+.container{
+    width: 340rpx;
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    box-shadow:0 0 8px rgba(0,0,0,0.2);
+    margin-top: 15rpx;
+}
+
+.img{
+    width: 100%;
+    height: 360rpx;
+}
+.title{
+    font-size: 28rpx;
+    color: #333333;
+
+}
+.tages-container{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    margin-bottom: 10rpx;
+}
+.l-tag{
+    background-color: #dcebe6 !important;
+    color: #157658 !important;
+    margin-right: 5rpx!important;
+}
+.inner-container{
+    padding: 20rpx;
+   display: flex;
+    flex-direction: column;
+}
+.price-container{
+
+    display: flex;
+    flex-direction: row;
+}
+.discount-price{
+    margin-left: 14rpx;
+}
+.subtitle{
+    font-size: 24rpx;
+    font-weight: 300;
+    margin-top: 6rpx;
+    color: #888;
+}

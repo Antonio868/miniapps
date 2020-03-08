@@ -1,0 +1,11 @@
+<view class="container">
+<image src="{{banner.img}}" class="title-imag"></image>
+<view class="inner-container">
+<image src="{{left.img}}" class="left-img"></image>
+<view class="right-contaainer">
+<image src="{{rightTop.img}}" ></image>
+<image src="{{rightBottom.img}}" ></image>
+</view>
+</view>
+
+</view>

@@ -1,0 +1,31 @@
+.container{
+    width: 100%;
+    height: 320rpx;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    background-color: #ffffff;
+
+}
+.inner-container{
+  width: 730rpx;
+  height: 300rpx;
+  border: 1px  dashed #dcebe6;
+}
+
+.grid-imag{
+    width: 60rpx;
+    height: 60rpx;
+}
+.grid-item{
+    width:200rpx ;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+.grid-title{
+    margin-top: 6rpx;
+       font-size: 24rpx;
+   color: #333;
+}
